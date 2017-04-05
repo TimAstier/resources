@@ -8,6 +8,7 @@ A list of reference resources for personal web app projects.
 [keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)  
 [JSON API](http://jsonapi.org/format/)  
 [lodash](https://lodash.com/docs/4.17.4)  
+[normalizr](https://github.com/paularmstrong/normalizr)
 
 [semantic-ui-react](https://react.semantic-ui.com/introduction)  
 [redux](http://redux.js.org/)  
