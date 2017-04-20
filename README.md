@@ -10,9 +10,14 @@ A list of reference resources for personal web app projects.
 [lodash](https://lodash.com/docs/4.17.4)  
 [normalizr](https://github.com/paularmstrong/normalizr)
 
+[css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[SaSS](http://sass-lang.com/guide)
+[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)
+
 [semantic-ui-react](https://react.semantic-ui.com/introduction)  
 [redux](http://redux.js.org/)  
-[redux-router](https://reacttraining.com/react-router/web/guides/quick-start)  
+[react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)  
 [redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)  
 [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)  
 [create-react-app](https://github.com/facebookincubator/create-react-app)  
@@ -40,7 +45,8 @@ A list of reference resources for personal web app projects.
 ### React
 [10 react mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 
-### Redux-Immutable
+### Redux
+[Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 [Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
 
 ### Heroku
