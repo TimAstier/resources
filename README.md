@@ -21,6 +21,10 @@ A list of reference resources for personal web app projects.
 [redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)  
 [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)  
 [create-react-app](https://github.com/facebookincubator/create-react-app)  
+reselect:
+[docs](https://github.com/reactjs/reselect),
+[reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)
+
 
 [sequelize](http://docs.sequelizejs.com/en/v3/)  
 [Postgres guide](http://postgresguide.com/utilities/psql.html)  
