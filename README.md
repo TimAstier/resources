@@ -52,6 +52,7 @@ reselect:
 ### Redux
 [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 [Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
+[Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)
 
 ### Heroku
 [Upgrading Heroku Postgres DB](https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases)  
