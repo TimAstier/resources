@@ -10,10 +10,12 @@ A list of reference resources for personal web app projects.
 [lodash](https://lodash.com/docs/4.17.4)  
 [normalizr](https://github.com/paularmstrong/normalizr)
 
-[css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[SaSS](http://sass-lang.com/guide)
-[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)
+[css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+[css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
+[SaSS](http://sass-lang.com/guide)  
+[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)  
+[react storybook](https://storybook.js.org/)  
+[styled-components](https://www.styled-components.com/docs)
 
 [semantic-ui-react](https://react.semantic-ui.com/introduction)  
 [redux](http://redux.js.org/)  
@@ -21,9 +23,9 @@ A list of reference resources for personal web app projects.
 [redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)  
 [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)  
 [create-react-app](https://github.com/facebookincubator/create-react-app)  
-reselect:
-[docs](https://github.com/reactjs/reselect),
-[reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)
+[reselect](https://github.com/reactjs/reselect)  
+[reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)  
+[redux-saga](https://redux-saga.js.org/)
 
 
 [sequelize](http://docs.sequelizejs.com/en/v3/)  
@@ -50,9 +52,9 @@ reselect:
 [10 react mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 
 ### Redux
-[Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-[Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)
-[Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)
+[Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
+[Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)  
+[Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)  
 
 ### Heroku
 [Upgrading Heroku Postgres DB](https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases)  
