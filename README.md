@@ -36,7 +36,8 @@ A list of reference resources for personal web app projects.
 [forest-sequelize](http://doc.forestadmin.com/developers-guide/)  
 [json-api-serializer](https://github.com/SeyZ/jsonapi-serializer)  
 [howler.js](https://github.com/goldfire/howler.js/)  
-[redux-sounds](https://github.com/joshwcomeau/redux-sounds)  
+[redux-sounds](https://github.com/joshwcomeau/redux-sounds)
+[react-motion](https://github.com/chenglou/react-motion)
 
 ## Projects
 [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)  
@@ -54,7 +55,11 @@ A list of reference resources for personal web app projects.
 ### Redux
 [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
 [Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)  
-[Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)  
+[Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)
+
+### React-motion
+[A gentle introduction to react motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
+[React motion tutorial](https://www.pshrmn.com/tutorials/react/animation/react-motion/)
 
 ### Heroku
 [Upgrading Heroku Postgres DB](https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases)  
