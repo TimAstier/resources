@@ -7,6 +7,7 @@ A list of reference resources for personal web app projects.
 [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
 [keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)  
 [JSON API](http://jsonapi.org/format/)  
+[JSDoc](http://usejsdoc.org/)
 [lodash](https://lodash.com/docs/4.17.4)  
 [normalizr](https://github.com/paularmstrong/normalizr)
 
@@ -39,6 +40,12 @@ A list of reference resources for personal web app projects.
 [redux-sounds](https://github.com/joshwcomeau/redux-sounds)
 [react-motion](https://github.com/chenglou/react-motion)
 
+[TypeScript](http://www.typescriptlang.org/docs/home.html)  
+[Flow](https://flow.org/en/docs/getting-started/)
+
+[GraphQL](https://graphql.org/learn/)  
+[Graphql-js](https://github.com/graphql/graphql-js)
+
 ## Projects
 [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)  
 [reti-chess](https://github.com/romanmatiasko/reti-chess)  
@@ -46,6 +53,8 @@ A list of reference resources for personal web app projects.
 [react-redux-blog](https://github.com/rajaraodv/react-redux-blog)  
 [hyper](https://github.com/zeit/hyper)  
 [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
+[f8app](https://github.com/fbsamples/f8app) - *Flow, Redux, GraphQL*  
+[Gatsby](https://github.com/gatsbyjs/gatsby) 
 
 ## Articles
 
@@ -57,6 +66,19 @@ A list of reference resources for personal web app projects.
 [Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)  
 [Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)
 
+### TypeScript
+[react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+[typesafe-actions](https://github.com/piotrwitek/typesafe-actions#createasyncaction)
+
+### Flow
+[Using redux with flow](http://frantic.im/using-redux-with-flow)
+
+### GraphQL
+[How to GraphQL](https://www.howtographql.com/)
+[Implementing GraphQL in your Redux App](https://medium.com/react-weekly/implementing-graphql-in-your-redux-app-dad7acf39e1b)
+[Getting started with redux and GraphQL](https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56)
+[How to use GraphQL in your Redux app](https://medium.freecodecamp.org/tutorial-how-to-use-graphql-in-your-redux-app-9bf8ebbeb362)
+
 ### React-motion
 [A gentle introduction to react motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
 [React motion tutorial](https://www.pshrmn.com/tutorials/react/animation/react-motion/)
@@ -67,3 +89,10 @@ A list of reference resources for personal web app projects.
 
 ### Postgresql
 [CLI](http://arjanvandergaag.nl/blog/working-with-postgresql-on-the-command-line.html)
+
+### NodeJS
+[How to create and publish your first NodeJS module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+
+### Devops
+[CI with Travis, Github, Heroku](https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f)  
+[Coverall and React App](https://rants.broonix.ca/adding-coverage-reports/)
