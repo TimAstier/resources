@@ -1,6 +1,9 @@
 # Web App Development Resources
 
-A list of reference resources for personal web app projects.
+## What?
+
+A personal list of resources to keep track of what I learn.  
+Mostly about JavaScript, React, Redux.
 
 ## Docs
 
@@ -46,7 +49,7 @@ A list of reference resources for personal web app projects.
 [GraphQL](https://graphql.org/learn/)  
 [Graphql-js](https://github.com/graphql/graphql-js)
 
-## Projects
+## Reference projects
 [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)  
 [reti-chess](https://github.com/romanmatiasko/reti-chess)  
 [sound-redux](https://github.com/andrewngu/sound-redux)  
@@ -56,7 +59,7 @@ A list of reference resources for personal web app projects.
 [f8app](https://github.com/fbsamples/f8app) - *Flow, Redux, GraphQL*  
 [Gatsby](https://github.com/gatsbyjs/gatsby) 
 
-## Articles
+## Articles & Tutorials
 
 ### React
 [10 react mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
@@ -75,12 +78,12 @@ A list of reference resources for personal web app projects.
 
 ### GraphQL
 [How to GraphQL](https://www.howtographql.com/)
-[Implementing GraphQL in your Redux App](https://medium.com/react-weekly/implementing-graphql-in-your-redux-app-dad7acf39e1b)
-[Getting started with redux and GraphQL](https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56)
+[Implementing GraphQL in your Redux App](https://medium.com/react-weekly/implementing-graphql-in-your-redux-app-dad7acf39e1b)  
+[Getting started with redux and GraphQL](https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56)  
 [How to use GraphQL in your Redux app](https://medium.freecodecamp.org/tutorial-how-to-use-graphql-in-your-redux-app-9bf8ebbeb362)
 
 ### React-motion
-[A gentle introduction to react motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)
+[A gentle introduction to react motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459)  
 [React motion tutorial](https://www.pshrmn.com/tutorials/react/animation/react-motion/)
 
 ### Heroku
