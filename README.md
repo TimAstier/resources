@@ -25,7 +25,7 @@ Mostly about JavaScript, React, Redux.
 [react](https://reactjs.org/)  
 [styled-components](https://www.styled-components.com/docs)  
 [react storybook](https://storybook.js.org/)  
-[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)
+[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)  
 [react-motion](https://github.com/chenglou/react-motion)  
 
 [semantic-ui-react](https://react.semantic-ui.com/introduction)  
@@ -47,8 +47,7 @@ Mostly about JavaScript, React, Redux.
 [forest-sequelize](http://doc.forestadmin.com/developers-guide/)  
 [json-api-serializer](https://github.com/SeyZ/jsonapi-serializer)  
 [howler.js](https://github.com/goldfire/howler.js/)  
-[redux-sounds](https://github.com/joshwcomeau/redux-sounds)
-[react-motion](https://github.com/chenglou/react-motion)
+[redux-sounds](https://github.com/joshwcomeau/redux-sounds)  
 
 [TypeScript](http://www.typescriptlang.org/docs/home.html)  
 [Flow](https://flow.org/en/docs/getting-started/)
