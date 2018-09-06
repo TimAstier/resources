@@ -20,30 +20,32 @@ Mostly about JavaScript, React, Redux.
 
 [babel](https://github.com/babel/babel)  
 [webpack](https://github.com/webpack/webpack)  
-[ESLint](https://eslint.org/)
 
 [react](https://reactjs.org/)  
 [styled-components](https://www.styled-components.com/docs)  
-[react storybook](https://storybook.js.org/)  
+[react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)  
+[redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)
 [react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)  
 [react-motion](https://github.com/chenglou/react-motion)  
+[create-react-app](https://github.com/facebookincubator/create-react-app)  
+
+[ESLint](https://eslint.org/)  
+[jest](https://facebook.github.io/jest/docs/getting-started)  
+[react storybook](https://storybook.js.org/)  
+[enzime](http://airbnb.io/enzyme/)  
 
 [semantic-ui-react](https://react.semantic-ui.com/introduction)  
+
 [redux](http://redux.js.org/)  
-[react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)  
-[redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)  
-[ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)  
-[create-react-app](https://github.com/facebookincubator/create-react-app)  
+[ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)   
 [reselect](https://github.com/reactjs/reselect)  
 [reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)  
 [redux-saga](https://redux-saga.js.org/)
-
 
 [sequelize](http://docs.sequelizejs.com/en/v3/)  
 [Postgres guide](http://postgresguide.com/utilities/psql.html)  
 [bluebird](http://bluebirdjs.com/docs/getting-started.html)  
 
-[jest](https://facebook.github.io/jest/docs/getting-started)  
 [forest-sequelize](http://doc.forestadmin.com/developers-guide/)  
 [json-api-serializer](https://github.com/SeyZ/jsonapi-serializer)  
 [howler.js](https://github.com/goldfire/howler.js/)  
@@ -95,6 +97,10 @@ Mostly about JavaScript, React, Redux.
 [10 react mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)  
 [Async Await with React Lifecycle methods](https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802)  
 [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
+
+[Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
+[Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)
+[Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)
 
 ### Redux
 [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
