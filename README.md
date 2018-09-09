@@ -30,7 +30,7 @@ Mostly about JavaScript, React, Redux.
 [create-react-app](https://github.com/facebookincubator/create-react-app)  
 
 [ESLint](https://eslint.org/)  
-[jest](https://facebook.github.io/jest/docs/getting-started)  
+[jest](https://facebook.github.io/jest/docs/getting-started) - [cheatsheet](https://github.com/sapegin/jest-cheat-sheet)  
 [react storybook](https://storybook.js.org/)  
 [enzime](http://airbnb.io/enzyme/)  
 
@@ -95,12 +95,15 @@ Mostly about JavaScript, React, Redux.
 
 ### React
 [10 react mini patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)  
+[Use a Render Prop](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)  
+[React, Inline functions and Performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)  
 [Async Await with React Lifecycle methods](https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802)  
 [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
 
-[Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
-[Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)
-[Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)
+[Testing React components with Jest and Enzyme](https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f)  
+[Testing React Apps](https://jestjs.io/docs/en/tutorial-react)  
+[Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)  
+[Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)  
 
 ### Redux
 [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)  
@@ -112,6 +115,8 @@ The above article introduces an interesting way to distinguish between different
   - Smart (holds its own state)
   - Presentational
 
+[How to use Immutable.js Records with React and Redux](https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676)  
+[You’re missing out on ImmutableJS Records](https://medium.com/@bamieh/immutablejs-records-bd369137da06)  
 [Redux-Immutable.js update Lists](https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/)  
 [Maintainable project structure](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5)  
 [10 tips for better redux architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
@@ -154,4 +159,7 @@ The above article introduces an interesting way to distinguish between different
 
 ## Blogs
 
+[React Blog](https://reactjs.org/blog)
+[React Podcast](https://reactpodcast.com/)
+[Full Stack Radio](http://www.fullstackradio.com/)
 [Wes Bos](https://wesbos.com/blog/)
