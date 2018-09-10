@@ -17,15 +17,17 @@ Mostly about JavaScript, React, Redux.
 [css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 [SaSS](http://sass-lang.com/guide)  
+[emotion-js](https://github.com/emotion-js/emotion)  
+[styled-components](https://www.styled-components.com/docs)  
 
 [babel](https://github.com/babel/babel)  
 [webpack](https://github.com/webpack/webpack)  
 
-[react](https://reactjs.org/)  
-[styled-components](https://www.styled-components.com/docs)  
+[react](https://reactjs.org/)   
 [react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)  
-[redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)
-[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)  
+[redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)  
+[react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html)   
+[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) ([see egghead.io course](https://egghead.io/lessons/react-course-introduction-beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd))   
 [react-motion](https://github.com/chenglou/react-motion)  
 [create-react-app](https://github.com/facebookincubator/create-react-app)  
 
