@@ -85,11 +85,15 @@ Mostly about JavaScript, React, Redux.
 
 * [bluebird](http://bluebirdjs.com/docs/getting-started.html) - a full featured promise library with unmatched performance
 * [chalk](https://github.com/chalk/chalk) - terminal string styling done right
+* [chodikar](https://github.com/paulmillr/chokidar) - a neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
+* [common-tags](https://github.com/declandewet/common-tags) - useful template literal tags for dealing with strings in ES2015+
 * [lerna](https://github.com/lerna/lerna) - a tool for managing JavaScript projects with multiple packages.
 * [fs](https://nodejs.org/api/fs.html) - an API for interacting with the file system
 * [lodash](https://lodash.com/docs/4.17.4) - a modern JavaScript utility library delivering modularity, performance, & extras.
-* [mitt]
+* [mitt](https://github.com/developit/mitt) - tiny 200 byte functional event emitter / pubsub.
 * [rl]
+
+[awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - List of Useful React Components library
 
 ## Tools
 
@@ -140,6 +144,7 @@ Custom components in embedded in Markdown
 * [Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
 * [Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)
 * [Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)
+* PAID [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
 ### Redux
 * [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
