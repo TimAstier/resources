@@ -88,6 +88,8 @@ Mostly about JavaScript, React, Redux.
 * [lerna](https://github.com/lerna/lerna) - a tool for managing JavaScript projects with multiple packages.
 * [fs](https://nodejs.org/api/fs.html) - an API for interacting with the file system
 * [lodash](https://lodash.com/docs/4.17.4) - a modern JavaScript utility library delivering modularity, performance, & extras.
+* [mitt]
+* [rl]
 
 ## Tools
 
@@ -141,13 +143,8 @@ Custom components in embedded in Markdown
 
 ### Redux
 * [Smart and dump components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-* [Component State vs Redux Store](https://medium.com/netscape/component-state-vs-redux-store-1eb0c929277)
-
-The above article introduces an interesting way to distinguish between different types of react components:
-- Containers (connected to the Redux store)
-- Components
-- Smart (holds its own state)
-- Presentational
+* [Component State vs Redux Store](https://medium.com/netscape/component-state-vs-redux-store-1eb0c929277)  
+Containers vs. Components (Smart | Presentational)
 
 * [How to use Immutable.js Records with React and Redux](https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676)
 * [You’re missing out on ImmutableJS Records](https://medium.com/@bamieh/immutablejs-records-bd369137da06)
@@ -235,3 +232,58 @@ _.omit()
 _.sample()
 _.sampleSize()
 ```
+
+## AZERTY Atom Shortcuts
+
+### Atom
+
+| Keys     | Action     |
+| :------------- | :------------- |
+| ⌘-w     | Close tab       |
+| ⌘-,     | Open settings       |
+| ⌘-z     | Undo      |
+| ⌘-<     | Switch File tree <> Editor       |
+
+### Files management
+
+| Keys     | Action     |
+| :------------- | :------------- |
+| ↑     | Move to previous file     |
+| ↓    | Move to next file     |
+| ↵    | Open file     |
+| →     | Move down file path     |
+| ←     | Move up file path     |
+| a     | Create new file       |
+| ⇧-a     | Create new folder     |
+| fn-f2     | Rename file     |
+| ⇧-⌘-o     | Open project     |
+
+### Code editing
+
+| Keys     | Action     |
+| :------------- | :------------- |
+| ⌘-s   | Save file    |
+| ⌥-⌘-s   | Save all files   |
+| ⌘-f     | Find in panel      |
+| ⇧-⌘-f     | Find in project      |
+| ⌘-a     | Select All       |
+| ⌘-d     | Select next occurrence       |
+| ⇧-any direction     |    Select characters / lines   |
+| ⌘-←     |    Move to start of line   |
+| ⌘-→     |    Move to end of line   |
+| ⌘-↑   | Move to top of file       |
+| ⌘-↓   | Move to bottom of file       |
+| ⌃-⌘-↑   | Move line up       |
+| ⌃-⌘-↓   | Move line down       |
+| ⇧-⌘-d   | Duplicate line       |
+| ⌘-↵   | Insert line below      |
+| ⇧-⌘-↵   | Insert line above    |
+| ⇧-^-k   | Delete selected lines   |
+| ⇧-k   | Delete rest of the line    |
+| ⌘-+   | Zoom in    |
+| ⌘--   | Zoom out    |
+| ^-⌥-m   | Open/Close Markdown preview    |
+| ⇧-m   | Find matching bracket    |
+| ⌥-⌘-→   | Next tab       |
+| ⌥-⌘-←   | Previous tab       |
+| ⇧-⌘-l   | Comment out selected lines       |
