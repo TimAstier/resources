@@ -79,25 +79,33 @@ Mostly about JavaScript, React, Redux.
 
 
 * [netlify](https://www.netlify.com/docs/)
-* [cloudinary](https://cloudinary.com/documentation) 
+* [cloudinary](https://cloudinary.com/documentation)
+* [now](https://zeit.co/docs)
 
-## Common libraries in Open Source projects
+## Common libraries in Open source projects
 
+### Built-in node modules
+* [rl](https://nodejs.org/api/readline.html) - an interface for reading data from a Readable stream one line at a time
+* [fs](https://nodejs.org/api/fs.html#fs_file_system) - an API for interacting with the file system
+
+### Open source libraries
+
+* [benchmark](https://github.com/bestiejs/benchmark.js/) - a benchmarking library
 * [bluebird](http://bluebirdjs.com/docs/getting-started.html) - a full featured promise library with unmatched performance
 * [chalk](https://github.com/chalk/chalk) - terminal string styling done right
-* [chodikar](https://github.com/paulmillr/chokidar) - a neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
+* [chodikar](https://github.com/paulmillr/chokidar) - a neat wrapper around node.js fs.watch / fs.watchFile / fsevents
 * [common-tags](https://github.com/declandewet/common-tags) - useful template literal tags for dealing with strings in ES2015+
-* [lerna](https://github.com/lerna/lerna) - a tool for managing JavaScript projects with multiple packages.
+* [lerna](https://github.com/lerna/lerna) - a tool for managing JavaScript projects with multiple packages
 * [fs](https://nodejs.org/api/fs.html) - an API for interacting with the file system
-* [lodash](https://lodash.com/docs/4.17.4) - a modern JavaScript utility library delivering modularity, performance, & extras.
-* [mitt](https://github.com/developit/mitt) - tiny 200 byte functional event emitter / pubsub.
-* [rl]
+* [lodash](https://lodash.com/docs/4.17.4) - a modern JavaScript utility library delivering modularity, performance, & extras
+* [mitt](https://github.com/developit/mitt) - tiny 200 byte functional event emitter / pubsub
 
 [awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - List of Useful React Components library
 
 ## Tools
 
 * [0to255](http://www.0to255.com/) - a color tool for finding lighter and darker colors based on any color.
+* [carbon](https://carbon.now.sh/) - create and share beautiful images of your source code.
 
 ## Reference projects
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -111,6 +119,7 @@ Mostly about JavaScript, React, Redux.
 * [How to GraphQL](https://github.com/howtographql/howtographql) - *Gatsby, TypeScript*
 * [Cyrpress](https://github.com/cypress-io/cypress)
 * [reactjs.org](https://github.com/reactjs/reactjs.org) - *Gatsby, Flow, Prettier*
+* [reach-ui](https://github.com/reach/reach-ui) - *Lerna, Gatsby, Storybook, Jest*
 
 ## Articles & Tutorials
 
@@ -193,6 +202,19 @@ Containers vs. Components (Smart | Presentational)
 * [CI with Travis, Github, Heroku](https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f)
 * [Coverall and React App](https://rants.broonix.ca/adding-coverage-reports/)
 
+### Functional programming
+
+*  [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - A curated list of awesome functional programming stuff in JS
+
+TO-READ:
+- [ ] [Mostyl adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [ ] [Functional ligtht JS](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
+
+Libraries:
+- [Ramda](https://github.com/ramda/ramda)
+- [Funcadelic](https://github.com/cowboyd/funcadelic.js)
+
+
 ## Blogs
 
 * [React Blog](https://reactjs.org/blog)
@@ -216,6 +238,22 @@ const [ head, ...rest ] = a
 
 // head => 1
 // rest => [2, 3, 4, 5]
+```
+
+```js
+const add2 = x => x + 2
+const multiplyBy2 = x => x * 2
+
+const compose = (...fns) =>
+  (arg) => fns.reduce((composed, f) => f(composed), arg)
+
+const add2ThenMultiplyBy2 = compose(
+  add2,
+  multiplyBy2
+)
+
+console.log(add2ThenMultiplyBy2(1))
+// ->  6
 ```
 
 ```js
