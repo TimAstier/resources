@@ -7,13 +7,15 @@ Mostly about JavaScript, React, Redux.
 
 ## Docs
 
+### General
 * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
 * [JSON API](http://jsonapi.org/format/)
 * [JSDoc](http://usejsdoc.org/)
-* [normalizr](https://github.com/paularmstrong/normalizr)
+* [babel](https://github.com/babel/babel)
+* [webpack](https://github.com/webpack/webpack)
 
-
+### CSS & styles
 * [css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [SaSS](http://sass-lang.com/guide)
@@ -21,51 +23,54 @@ Mostly about JavaScript, React, Redux.
 * [typography.js](https://github.com/KyleAMathews/typography.js) 
 * [emotion-js](https://github.com/emotion-js/emotion)
 
-
-* [babel](https://github.com/babel/babel)
-* [webpack](https://github.com/webpack/webpack)
-
+### React
 
 * [react](https://reactjs.org/) 
 * [react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)
-* [redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)
 * [react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html) 
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) ([see egghead.io course](https://egghead.io/lessons/react-course-introduction-beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)) 
 * [react-motion](https://github.com/chenglou/react-motion)
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
 
+### Redux
+
+* [redux](http://redux.js.org/)
+* [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) 
+* [redux-form](http://redux-form.com/6.6.1/docs/GettingStarted.md/)
+* [reselect](https://github.com/reactjs/reselect)
+* [reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)
+* [redux-saga](https://redux-saga.js.org/)
+
+### Testing
 
 * [ESLint](https://eslint.org/)
 * [jest](https://facebook.github.io/jest/docs/getting-started) - [cheatsheet](https://github.com/sapegin/jest-cheat-sheet)
 * [react storybook](https://storybook.js.org/)
 * [enzyme](http://airbnb.io/enzyme/)
 
+### Frontend libraries
 
 * [semantic-ui-react](https://react.semantic-ui.com/introduction)
 
-
-* [redux](http://redux.js.org/)
-* [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) 
-* [reselect](https://github.com/reactjs/reselect)
-* [reselect/immutable](http://blog.rangle.io/react-and-redux-performance-with-reselect/)
-* [redux-saga](https://redux-saga.js.org/)
-
+### Backend / Data
 
 * [sequelize](http://docs.sequelizejs.com/en/v3/)
 * [Postgres guide](http://postgresguide.com/utilities/psql.html)
-
-
+* [normalizr](https://github.com/paularmstrong/normalizr)
 * [forest-sequelize](http://doc.forestadmin.com/developers-guide/)
 * [json-api-serializer](https://github.com/SeyZ/jsonapi-serializer)
 
+### Sound
 
 * [howler.js](https://github.com/goldfire/howler.js/)
 * [redux-sounds](https://github.com/joshwcomeau/redux-sounds)
 
+### Type checking
 
 * [TypeScript](http://www.typescriptlang.org/docs/home.html)
 * [Flow](https://flow.org/en/docs/getting-started/)
 
+### GraphQL
 
 * [GraphQL](https://graphql.org/learn/)
 * [Graphql-js](https://github.com/graphql/graphql-js)
@@ -73,10 +78,12 @@ Mostly about JavaScript, React, Redux.
 * [Apollo Client](https://github.com/apollographql/apollo-client)
 * [Apollo Docs for React](https://www.apollographql.com/docs/react/)
 
+### Gatsby
 
 * [gatsby](https://github.com/gatsbyjs/gatsby)
 * [gatsby-transformer-react](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-remark)
 
+### Deployment
 
 * [netlify](https://www.netlify.com/docs/)
 * [cloudinary](https://cloudinary.com/documentation)
