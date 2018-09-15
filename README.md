@@ -26,10 +26,11 @@ Mostly about JavaScript, React, Redux.
 ### React
 
 * [react](https://reactjs.org/) 
-* [react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons)
+* [react-router](https://github.com/reactjs/react-router-tutorial/tree/master/lessons) - *render prop*
 * [react-dnd](https://react-dnd.github.io/react-dnd/docs-overview.html) 
-* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) ([see egghead.io course](https://egghead.io/lessons/react-course-introduction-beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)) 
-* [react-motion](https://github.com/chenglou/react-motion)
+* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - *render prop* ([see egghead.io course](https://egghead.io/lessons/react-course-introduction-beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd))
+* [downshift](https://github.com/paypal/downshift)  - *render prop*
+* [react-motion](https://github.com/chenglou/react-motion)  - *render prop*
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ### Redux
@@ -51,6 +52,7 @@ Mostly about JavaScript, React, Redux.
 ### Frontend libraries
 
 * [semantic-ui-react](https://react.semantic-ui.com/introduction)
+* [atlaskit](https://atlaskit.atlassian.com/packages/core)
 
 ### Backend / Data
 
@@ -127,6 +129,7 @@ Mostly about JavaScript, React, Redux.
 * [Cyrpress](https://github.com/cypress-io/cypress)
 * [reactjs.org](https://github.com/reactjs/reactjs.org) - *Gatsby, Flow, Prettier*
 * [reach-ui](https://github.com/reach/reach-ui) - *Lerna, Gatsby, Storybook, Jest*
+[atlaskit](https://atlaskit.atlassian.com/packages/core) - *Flow, Jest, Enzyme* -
 
 ## Articles & Tutorials
 
