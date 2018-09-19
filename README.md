@@ -48,6 +48,7 @@ Mostly about JavaScript, React, Redux.
 * [jest](https://facebook.github.io/jest/docs/getting-started) - [cheatsheet](https://github.com/sapegin/jest-cheat-sheet)
 * [react storybook](https://storybook.js.org/)
 * [enzyme](http://airbnb.io/enzyme/)
+* [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 
 ### Frontend libraries
 
@@ -115,6 +116,7 @@ Mostly about JavaScript, React, Redux.
 
 * [0to255](http://www.0to255.com/) - a color tool for finding lighter and darker colors based on any color.
 * [carbon](https://carbon.now.sh/) - create and share beautiful images of your source code.
+* [CodeSandebox](https://codesandbox.io/) - the online code editor
 
 ## Reference projects
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -224,6 +226,10 @@ Libraries:
 - [Ramda](https://github.com/ramda/ramda)
 - [Funcadelic](https://github.com/cowboyd/funcadelic.js)
 
+```js
+// map's composition law
+compose(map(f), map(g)) === map(compose(f, g));
+```
 
 ## Blogs
 
