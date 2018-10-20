@@ -359,11 +359,6 @@ How to replicate this custom setting on Vs Code:
         "when": "editorLangId == 'markdown'"
     },
     {
-        "key": "shift+cmd+v",
-        "command": "-markdown.showPreview",
-        "when": "editorLangId == 'markdown'"
-    },
-    {
         "key": "r",
         "command": "renameFile",
         "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
@@ -424,7 +419,8 @@ How to replicate this custom setting on Vs Code:
 | Delete rest of the line     | ^-k    | ^-k    |
 | Zoom in                     | ⌘-+    | ⌘-+    |
 | Zoom out                    | ⌘--    | ⌘--    |
-| Open/Close Markdown preview | ^-⌥-m  | ^-⌥-m  |
+| Open Markdown prev.         | ^-⌥-m  | ^-⌥-m  |
+| Open Markdown prev. on side |        | ⇧-^-m  |
 | Find matching bracket       | ^-m    | ^-m    |
 | Next tab                    | ⌥-⌘-→  | ⌥-⌘-→  |
 | Previous tab                | ⌥-⌘-←  | ⌥-⌘-←  |
