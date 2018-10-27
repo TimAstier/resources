@@ -118,6 +118,11 @@ Mostly about JavaScript, React, Redux.
 * [carbon](https://carbon.now.sh/) - create and share beautiful images of your source code.
 * [CodeSandebox](https://codesandbox.io/) - the online code editor
 
+### Media files conversion
+
+* [youtube-to-mp3](https://www.onlinevideoconverter.com/mp3-converter)
+* [mov-to-mp3](https://cloudconvert.com/mov-to-mp3)
+
 ## Reference projects
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
 * [reti-chess](https://github.com/romanmatiasko/reti-chess)
