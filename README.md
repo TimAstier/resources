@@ -127,8 +127,8 @@ Mostly about JavaScript, React, Redux.
 
 ### Media files conversion
 
-* [youtube-to-mp3](https://www.onlinevideoconverter.com/mp3-converter)
-* [mov-to-mp3](https://cloudconvert.com/mov-to-mp3)
+- [youtube-to-mp3](https://www.onlinevideoconverter.com/mp3-converter)
+- [mov-to-mp3](https://cloudconvert.com/mov-to-mp3)
 
 ## Reference projects
 
@@ -181,6 +181,8 @@ Custom components in embedded in Markdown
 - [Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)
 - [Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)
 - PAID [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+
+- [React conf 2018 - Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2s)
 
 ### Redux
 
@@ -330,75 +332,76 @@ _.sampleSize();
 
 ## Editor Shortcuts
 
-How to replicate this custom setting on Vs Code:  
+How to replicate this custom setting on Vs Code:
+
 - Install 'Atom Keymap' extension
 - Have this keybindings.json file:
 
 ```json
 [
-    {
-        "key": "cmd+=",
-        "command": "editor.action.fontZoomIn"
-    },
-    {
-        "key": "cmd+-",
-        "command": "editor.action.fontZoomOut"
-    },
-    {
-        "key": "ctrl+[Backquote]",
-        "command": "workbench.view.explorer"
-    },
-    {
-        "key": "a",
-        "command": "explorer.newFile",
-        "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
-    },
-    {
-        "key": "shift+a",
-        "command": "explorer.newFolder",
-        "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
-    },
-    {
-        "key": "ctrl+alt+m",
-        "command": "markdown.showPreview",
-        "when": "editorLangId == 'markdown'"
-    },
-    {
-        "key": "r",
-        "command": "renameFile",
-        "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
-    },
-    {
-        "key": "enter",
-        "command": "-renameFile",
-        "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
-    }
+  {
+    "key": "cmd+=",
+    "command": "editor.action.fontZoomIn"
+  },
+  {
+    "key": "cmd+-",
+    "command": "editor.action.fontZoomOut"
+  },
+  {
+    "key": "ctrl+[Backquote]",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "a",
+    "command": "explorer.newFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "shift+a",
+    "command": "explorer.newFolder",
+    "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+  },
+  {
+    "key": "ctrl+alt+m",
+    "command": "markdown.showPreview",
+    "when": "editorLangId == 'markdown'"
+  },
+  {
+    "key": "r",
+    "command": "renameFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+  },
+  {
+    "key": "enter",
+    "command": "-renameFile",
+    "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+  }
 ]
 ```
 
 ### General
 
-| Action                     | Atom | Code   | 
-| :------------------------- | :--- | :---   |
+| Action                     | Atom | Code   |
+| :------------------------- | :--- | :----- |
 | Close tab                  | ⌘-w  | ⌘-w    |
 | Open settings              | ⌘-,  | ⌘-,    |
 | Undo                       | ⌘-z  | ⌘-z    |
-| Switch File tree <> Editor | ⌘-<  | ctrl-< | 
+| Switch File tree <> Editor | ⌘-<  | ctrl-< |
 
 ### Files management
 
-| Action                | Atom  | Code  |
-| :-------------------- | :---- | :---- |
-| Move to previous file | ↑     | ↑     |
-| Move to next file     | ↓     | ↓     |
-| Open file             | ↵     | ↵     |
-| Delete file           | backs.| backs.|
-| Move down file path   | →     | →     |
-| Move up file path     | ←     | ←     |
-| Create new file       | a     | a     |
-| Create new folder     | ⇧-a   | ⇧-a   |
-| Rename file           | fn-f2 | r     |
-| Open project          | ⇧-⌘-o | ⇧-⌘-o |
+| Action                | Atom   | Code   |
+| :-------------------- | :----- | :----- |
+| Move to previous file | ↑      | ↑      |
+| Move to next file     | ↓      | ↓      |
+| Open file             | ↵      | ↵      |
+| Delete file           | backs. | backs. |
+| Move down file path   | →      | →      |
+| Move up file path     | ←      | ←      |
+| Create new file       | a      | a      |
+| Create new folder     | ⇧-a    | ⇧-a    |
+| Rename file           | fn-f2  | r      |
+| Open project          | ⇧-⌘-o  | ⇧-⌘-o  |
 
 ### Code editing
 
