@@ -126,6 +126,11 @@ Mostly about JavaScript, React, Redux.
 - [carbon](https://carbon.now.sh/) - create and share beautiful images of your source code.
 - [CodeSandebox](https://codesandbox.io/) - the online code editor
 
+### Media files conversion
+
+- [youtube-to-mp3](https://www.onlinevideoconverter.com/mp3-converter)
+- [mov-to-mp3](https://cloudconvert.com/mov-to-mp3)
+
 ## Reference projects
 
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
@@ -177,6 +182,8 @@ Custom components in embedded in Markdown
 - [Introduction - React UI Testing](https://storybook.js.org/testing/react-ui-testing/)
 - [Snapshot Testing](https://jestjs.io/docs/en/snapshot-testing)
 - PAID [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+
+- [React conf 2018 - Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2s)
 
 ### Redux
 
