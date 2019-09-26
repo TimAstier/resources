@@ -239,7 +239,7 @@ Custom components in embedded in Markdown
 
 ### Prisma
 
-- [Prisma docs (TS)](https://www.prisma.io/docs/get-started/01-setting-up-prisma-new-database-TYPESCRIPT-t002/).
+- [Prisma docs (TS)](https://www.prisma.io/docs/get-started/01-setting-up-prisma-new-database-TYPESCRIPT-t002/)
 
 ### Devops
 
