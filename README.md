@@ -184,6 +184,7 @@ Custom components in embedded in Markdown
 - PAID [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
 - [React conf 2018 - Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2s)
+- [Composing Behavior in React or Why React Hooks are Awesome](https://www.youtube.com/watch?v=nUzLlHFVXx0)
 
 ### Redux
 
