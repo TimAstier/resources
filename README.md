@@ -185,6 +185,7 @@ Custom components in embedded in Markdown
 
 - [React conf 2018 - Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2s)
 - [Composing Behavior in React or Why React Hooks are Awesome](https://www.youtube.com/watch?v=nUzLlHFVXx0)
+- [State Management with React Hooks and Context API](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 
 ### Redux
 
