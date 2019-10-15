@@ -186,6 +186,7 @@ Custom components in embedded in Markdown
 - [React conf 2018 - Introducing hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2s)
 - [Composing Behavior in React or Why React Hooks are Awesome](https://www.youtube.com/watch?v=nUzLlHFVXx0)
 - [State Management with React Hooks and Context API](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
+- [Setup react-testing-library with jest and typescript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript)
 
 ### Redux
 
@@ -250,11 +251,6 @@ Custom components in embedded in Markdown
 ### Functional programming
 
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - A curated list of awesome functional programming stuff in JS
-
-TO-READ:
-
-- [ ] [Mostyl adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- [ ] [Functional ligtht JS](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
 
 Libraries:
 
